@@ -1,3 +1,6 @@
 [submodule "smetannik"]
 	path = smetannik
 	url = https://github.com/user2020-xxx/smetannik
+[submodule "DataServer"]
+	path = DataServer
+	url = https://github.com/Amo-bit/DataServer
